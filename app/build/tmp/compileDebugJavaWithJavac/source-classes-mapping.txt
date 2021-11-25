@@ -1,0 +1,19 @@
+com/example/taskplanner/MainActivity.java
+ com.example.taskplanner.MainActivity
+ com.example.taskplanner.MainActivity$1
+com/example/taskplanner/databinding/FragmentSecondBinding.java
+ com.example.taskplanner.databinding.FragmentSecondBinding
+com/example/taskplanner/databinding/FragmentFirstBinding.java
+ com.example.taskplanner.databinding.FragmentFirstBinding
+com/example/taskplanner/BuildConfig.java
+ com.example.taskplanner.BuildConfig
+com/example/taskplanner/SecondFragment.java
+ com.example.taskplanner.SecondFragment
+ com.example.taskplanner.SecondFragment$1
+com/example/taskplanner/databinding/ActivityMainBinding.java
+ com.example.taskplanner.databinding.ActivityMainBinding
+com/example/taskplanner/FirstFragment.java
+ com.example.taskplanner.FirstFragment
+ com.example.taskplanner.FirstFragment$1
+com/example/taskplanner/databinding/ContentMainBinding.java
+ com.example.taskplanner.databinding.ContentMainBinding
