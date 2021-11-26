@@ -1,4 +1,4 @@
-## Android - Part 1
+## Proyecto Integrador: Configuración inicial Task Planner App
 
 ![img](https://github.com/Skullzo/IETI-Lab9/blob/main/img/Android3.png)
 
